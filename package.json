@@ -1,0 +1,17 @@
+{
+  "name": "cros-page-message",
+  "version": "0.0.1",
+  "description": "cross page message javascript plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "tsc index.ts & node build.js test",
+    "build": "webpack"
+  },
+  "keywords": [
+    "corss",
+    "page"
+  ],
+  "author": "liux",
+  "license": "ISC"
+}

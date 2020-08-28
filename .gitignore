@@ -1,0 +1,16 @@
+npm-debug.log
+yarn-error.log
+node_modules/
+yarn.lock
+coverage/
+.idea/*
+.vscode/*
+$tmpdir/*
+dist/*
+run/
+.DS_Store
+*.sw*
+*.un~
+typings/
+.nyc_output/
+config/apollo/*
